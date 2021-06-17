@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/mathangwane/image/upload/v1623905395/proggif_zcb3ja.gif">
+<img align="left" alt="Coding" width="400" src="https://res.cloudinary.com/mathangwane/image/upload/v1623905395/proggif_zcb3ja.gif">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathangwane)](https://git.io/streak-stats)
 
