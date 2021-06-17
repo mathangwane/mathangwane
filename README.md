@@ -1,9 +1,8 @@
 <img align="left" alt="Coding" width="400" src="https://res.cloudinary.com/mathangwane/image/upload/v1623905395/proggif_zcb3ja.gif">
 <p align="left">
 
-[![GitHub Streak](http://github-readme-mathangwane.herokuapp.com?user=mathangwane&theme=dark&hide_border=true)](https://github.com/mathangwane)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathangwane&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathangwane&theme=dark&hide_border=true)](https://github.com/mathangwane)
+<p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://facebook.com/mathangwane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
