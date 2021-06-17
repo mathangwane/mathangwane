@@ -414,7 +414,7 @@ Create `.env` file to project root directory, and write your GitHub token to the
 Please select the authority of `repo` when creating token.
 
 ```
-GITHUB_TOKEN=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
+GITHUB_TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
 Run local server.
