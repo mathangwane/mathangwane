@@ -2,6 +2,7 @@
 <p align="left">
 
 [![GitHub Streak](http://github-readme-mathangwane.herokuapp.com?user=mathangwane&theme=dark&hide_border=true)](https://github.com/mathangwane)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathangwane&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
