@@ -1,7 +1,7 @@
 <img align="left" alt="Coding" width="400" src="https://res.cloudinary.com/mathangwane/image/upload/v1623905395/proggif_zcb3ja.gif">
 <p align="left">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathangwane)](https://git.io/mathangwane)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathangwane&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
