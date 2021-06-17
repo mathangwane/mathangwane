@@ -1,4 +1,5 @@
 <img align="left" alt="Coding" width="400" src="https://res.cloudinary.com/mathangwane/image/upload/v1623905395/proggif_zcb3ja.gif">
+<p align="left">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathangwane&theme=dark&hide_border=true)](https://github.com/mathangwane)
 <p>
